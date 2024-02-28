@@ -1,9 +1,9 @@
 
 # Hello World! 👋
 
-I'm Cristian, an aspiring Software Engineer currently on the exciting journey of learning Python programming. Excited about learning the ins and outs of software development and building cool things!
+I'm Cristian, an aspiring Software Engineer currently on the exciting journey of learning Python programming. Thrilled about learning the ins and outs of software development and building cool things!
 
-Thrilled to collaborate and learn from the amazing GitHub community! 😊
+Excited to collaborate and learn from the amazing GitHub community! 😊
 
 <!--
 **CristianJitca/CristianJitca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
